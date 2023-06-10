@@ -23,7 +23,7 @@ class GeneretedInputOutput(Dataset):
         
        
         self.args = args
-        a =1
+        
         
         with open(data_dir, 'rb') as file:
              # Load the data from the pickle file
